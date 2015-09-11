@@ -1,0 +1,26 @@
+Hi, my name is Artem, I am 26 years old.
+I was previously working with market researches (UMG, GFK, Philip Morris).
+WHY I WANT TO WORK IN IT?
+1. I like creating something new (especially things that makes our lives easier)
+2. I always have fresh ideas
+3. I like to code in different ways (when result is the same)
+WHAT I HAVE DONE:
+Finished Udemy course: https://www.udemy.com/certificate/UC-3BXGK7UC/
+Created Black Jack game for one player: https://github.com/ArtemSokoliuk/Card-game
+Began creating website "Students Base" using Python/Django, HTML, CSS, Bootstrap etc.
+Installed and learned how to use Linux for my daily tasks, using GIT.
+I have already learned a bit and used Pygame and NumPy libraries.
+
+Привіт, мене звати Артем, мені 26 років.
+Раніше я працював з маркетинговими дослідженням (UMG, GFK, Philip Morris).
+ЧОМУ Я ХОЧУ ПРАЦЮВАТИ В IT?
+1. Мені подобається створювати щось нове (особливо те, що полегшує наше життя)
+2. Завжди маю свіжі ідеї
+3. Мені подобається реалізовувати код різними способами (коли результат однаковий)
+ЩО Я ВЖЕ ЗРОБИВ
+Пройшов курс Udemy (сертифікат): https://www.udemy.com/certificate/UC-3BXGK7UC/
+Створив Блек Джек для одного гравця: https://github.com/ArtemSokoliuk/Card-game
+Почав створювати сайт «База Студентів" за допомогою Python/Django, HTML, CSS, Bootstrap, і т.п. 
+Встановив і навчився користуватися Linux'ом для моїх повсякденних задач, використовую GIT.
+Я вже трохи вивчив і встиг спробувати бібліотеки Pygame і NumPy.
+

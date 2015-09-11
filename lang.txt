@@ -1,0 +1,12 @@
+Which server side language do you use (and why)
+I use Python. It is easy to learn, poverful and have a lot of ready decisions (modules, libraries etc.)
+
+What do you know about PHP
+PHP is a scripting language, used for big amount of websites.
+It is also used for server-side development and maintaining.
+PHP can be used together with HTML code, but it is not very good to work for 2 persons: back-end and front-end developer.
+
+Which frameworks did you use 
+Django
+
+
